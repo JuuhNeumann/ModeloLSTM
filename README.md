@@ -16,12 +16,12 @@
 
  <p>
     <h2 align="center">
- Projeto baseado em Inteligência Artificial para previsão puramente temporal de apenas uma Estação Pluviométrica.
+ Projeto baseado em Inteligência Artificial para previsão puramente Temporal de apenas uma Estação Pluviométrica.
   </h2>
   </p> 
   </br>
   
-  - Este projeto tem como objetivo prever a medida de precipitação pluviométrica por meio de estações pluviométricas utilizando um modelo LSTM, a partir do aspecto temporal, considerando o fenômeno como ocorrendo num meio isolado.
+  - Este projeto tem como objetivo prever a medida de precipitação pluviométrica por meio de estações pluviométricas utilizando um modelo LSTM, a partir do aspecto Temporal, considerando o fenômeno como ocorrendo num meio isolado.
   
   # 💻 Projeto:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Inteligência Artificial + Aprendizado de máquina + Análise de dados + Redes Neurais +  Estação Pluviométrica + Modelo LSTM + Aspecto Temporal**
