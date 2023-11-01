@@ -24,7 +24,7 @@
   - Este projeto tem como objetivo prever a medida de precipitação pluviométrica por meio de estações pluviométricas utilizando um modelo LSTM, a partir do aspecto temporal, considerando o fenômeno como ocorrendo num meio isolado.
   
   # 💻 Projeto:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Inteligência Artificial + Aprendizado de máquina + Análise de dados + Redes Neurais +  Estação Pluviométrica + Modelo LSTM + aSPETO tEMPORAL**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Inteligência Artificial + Aprendizado de máquina + Análise de dados + Redes Neurais +  Estação Pluviométrica + Modelo LSTM + Aspecto Temporal**
 
 
 <details>
